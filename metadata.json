@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python Pastel",
+  "description": "Calculadora moderna e multifuncional com modos Padrão, Científica, Gráfica, Programador, Cálculo de Data e Console de Código Python, com suporte a atalhos de teclado e tema claro/escuro em laranja pastel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
