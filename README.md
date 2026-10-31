@@ -1,4 +1,4 @@
-# 🍊 PyCalc Pastel
+# 🍊 PyNova Calculator
 
 > Calculadora multifuncional, moderna e responsiva com execução de código Python (WASM), suporte a atalhos de teclado e tema claro/escuro com paleta em laranja pastel.
 
